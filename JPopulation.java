@@ -50,4 +50,8 @@ public class JPopulation extends JFrame implements ActionListener
 
       public JLabel pop;
       public JComboBox choices ;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
